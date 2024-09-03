@@ -71,7 +71,7 @@ console.log('Bot connected to CHANU-MD WAbot✅')
 
 let up = `CHANU-MD Wa-BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/d2e43e0b7e028a334be7a.jpg` }, caption: up })
 
 }
 })
